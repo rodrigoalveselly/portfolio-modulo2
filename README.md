@@ -1,6 +1,6 @@
-# Portfolio - Conhecimentos & Objetivos
+## Portfolio - Conhecimentos & Objetivos
 
-## Trabalhado realizado para finalização do Modulo 2 do programa Despertar Dev da Growdev.
+### Trabalho realizado para finalização do Modulo 2 do programa Despertar Dev da Growdev.
 
 <br>
 
